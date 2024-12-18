@@ -1,6 +1,8 @@
 # 💫 Hola soy Jeremy💫
-Soy un estudiante apasionado por el desarrollo web y el diseño front-end. Me encanta combinar creatividad y código para construir experiencias digitales atractivas e intuitivas.  <br><br>---<br><br> # 🧑‍💻 **Sobre mí**  <br>- 🎓 Estudiante de Ingenieria en Sistemas.  <br>- 🌱 Actualmente aprendiendo: **Java**, **SQL Server**, **C#**,**.NET**. <br>- 🌱 Conocimiento en: **HTML5**, **CSS**, **JavaScript**. <br>- 🎨 Interesado en: ** Diseño UI/UX**, **Animaciones Web**, **Diseño Responsive**,**Funcionamiento de las paginas Web**.  <br>- 💡 Mi meta: Crear sitios web que sean tanto funcionales como visualmente impactantes.  <br><br>---
+Soy un estudiante apasionado por el desarrollo web y el diseño front-end. Me encanta combinar creatividad y código para construir experiencias digitales atractivas e intuitivas.  <br>
 
+## 🧑‍💻 
+**Sobre mí**  <br>- 🎓 Estudiante de Ingenieria en Sistemas.  <br>- 🌱 Actualmente aprendiendo: **Java**, **SQL Server**, **C#**,**.NET**. <br>- 🌱 Conocimiento en: **HTML5**, **CSS**, **JavaScript**. <br>- 🎨 Interesado en: ** Diseño UI/UX**, **Animaciones Web**, **Diseño Responsive**,**Funcionamiento de las paginas Web**.  <br>- 💡 Mi meta: Crear sitios web que sean tanto funcionales como visualmente impactantes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jee_almengor) 
