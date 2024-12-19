@@ -2,7 +2,7 @@
 
 # 💫 Hola, soy Jeremy 💫
 Soy un estudiante apasionado por el desarrollo web y el diseño front-end. Me encanta combinar creatividad y código para construir experiencias digitales atractivas e intuitivas.  
-<br>
+
 
 ## 🧑‍💻 **Sobre mí**  
 - 🎓 Estudiante de Ingeniería en Sistemas  
@@ -11,15 +11,15 @@ Soy un estudiante apasionado por el desarrollo web y el diseño front-end. Me en
 - 🎨 Interesado en: **Diseño UI/UX**, **Animaciones Web**, **Diseño Responsive**, **Funcionamiento de las páginas Web**  
 - 💡 Mi meta: Crear sitios web que sean tanto funcionales como visualmente impactantes para el usuario.  
 
----
+
 
 <h2> Skills 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 </h2>
 
-<br>
 
-<!-- Lenguajes y tecnologías -->
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/> 
   <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/> 
@@ -35,7 +35,6 @@ Soy un estudiante apasionado por el desarrollo web y el diseño front-end. Me en
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
 </p>
 
----
 
 ## 📊 **Estadísticas de GitHub**
 
